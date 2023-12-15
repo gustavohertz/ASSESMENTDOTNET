@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "glXhwB6UImRbfuI5Vc6bcxEFTAd5TnIoDidUZXrEeulOV+9qptgaL5iPEmxTssghs0nAEqhik2jO1Vv+veSEgA==",
+  "dgSpecHash": "LrI4EplKM9Aqww+DsjQ39bsgrvPQSE5Bru+9dFeB6p1z5Ox43s73iB5rJzuDGYk3J7f06RYjUYvxK1nYSmsx6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gustavo.hertz\\source\\repos\\tESTE\\tESTE\\tESTE.csproj",
+  "projectFilePath": "C:\\Users\\gustavo.hertz\\Source\\Repos\\ATcsharp\\tESTE\\tESTE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gustavo.hertz\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\gustavo.hertz\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

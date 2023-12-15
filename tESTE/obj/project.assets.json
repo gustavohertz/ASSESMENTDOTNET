@@ -10692,11 +10692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gustavo.hertz\\source\\repos\\tESTE\\tESTE\\tESTE.csproj",
+      "projectUniqueName": "C:\\Users\\gustavo.hertz\\Source\\Repos\\ATcsharp\\tESTE\\tESTE.csproj",
       "projectName": "tESTE",
-      "projectPath": "C:\\Users\\gustavo.hertz\\source\\repos\\tESTE\\tESTE\\tESTE.csproj",
+      "projectPath": "C:\\Users\\gustavo.hertz\\Source\\Repos\\ATcsharp\\tESTE\\tESTE.csproj",
       "packagesPath": "C:\\Users\\gustavo.hertz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gustavo.hertz\\source\\repos\\tESTE\\tESTE\\obj\\",
+      "outputPath": "C:\\Users\\gustavo.hertz\\Source\\Repos\\ATcsharp\\tESTE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gustavo.hertz\\AppData\\Roaming\\NuGet\\NuGet.Config",

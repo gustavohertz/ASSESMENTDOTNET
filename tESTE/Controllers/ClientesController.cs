@@ -22,9 +22,12 @@ namespace tESTE.Controllers
         // GET: Clientes
         public async Task<IActionResult> Index()
         {
-              return _context.Cliente != null ? 
-                          View(await _context.Cliente.ToListAsync()) :
-                          Problem("Entity set 'tESTEContext.Cliente'  is null.");
+            var clientes = await _context.Cliente.ToListAsync();
+            var count = clientes.Count;
+
+            ViewData["ItemCount"] = count;
+
+            return View(clientes);
         }
 
         // GET: Clientes/Details/5
